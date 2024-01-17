@@ -4,6 +4,6 @@ int main(void)
 
 {
     printf("Hello world! I'm Johanna. How are you today?");
-    printf("Have a nice day!");
+    printf("Hope you have a bad day!");
 }
 // just comments
